@@ -1,8 +1,8 @@
 mapboxgl.accessToken =
   "pk.eyJ1IjoidmluY2VudHZhbmJ1c2tpcmsiLCJhIjoiY2wxOHFjajk2MjFiMjNqbjF1bWxsaWt4YiJ9.RX0gnSYBbgZYKkfiXZ0h2g";
 var map2 = new mapboxgl.Map({
-  container: "map",
-  style: "Your Mapbox style URL here",
+  container: "map2",
+  style: "mapbox://styles/vincentvanbuskirk/cl3ue8n9r005h14o8313atdpn",
   zoom: 3,
   maxZoom: 9,
   minZoom: 3.5,
